@@ -5,11 +5,18 @@ Quick overview of the dataset :
 Accelerometer and Gyroscope readings are taken from 30 volunteers(referred as subjects) while performing the following 6 Activities.
 
 Walking
+
 WalkingUpstairs
+
 WalkingDownstairs
+
 Standing
+
 Sitting
+
 Lying.
+
+
 Readings are divided into a window of 2.56 seconds with 50% overlapping.
 
 Accelerometer readings are divided into gravity acceleration and body acceleration readings, which has x,y and z components each.
