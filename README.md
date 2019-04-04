@@ -34,8 +34,10 @@ We get a feature vector of 561 features and these features are given in the data
 Each window of readings is a datapoint of 561 features.
 
 Problem Framework
+
 30 subjects(volunteers) data is randomly split to 70%(21) test and 30%(7) train data.
 Each datapoint corresponds one of the 6 Activities.
 
 Problem Statement
+
 Given a new datapoint we have to predict the Activity
