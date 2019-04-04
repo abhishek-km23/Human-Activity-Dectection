@@ -41,3 +41,7 @@ Each datapoint corresponds one of the 6 Activities.
 Problem Statement
 
 Given a new datapoint we have to predict the Activity
+
+Performance matrix: 1.Accuracy
+
+NB: This project was done as a part of assignment for machine Learning course taken at appliedaicourse.com/
